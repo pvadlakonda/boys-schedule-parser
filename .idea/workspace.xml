@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../gitWorkspace/AACom-Release" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../gitWorkspace/gheRepos/aa-ct-loyalty-cobrand-barclays-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../gitWorkspace/gheRepos/aa-ct-loyalty-cobrand-barclays-domain" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../gitWorkspace/gheRepos/aa-ct-loyalty-cobrand-citi-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../gitWorkspace/gheRepos/aa-ct-loyalty-cobrand-citi-offer-eligibility-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../gitWorkspace/gheRepos/ct-loyalty-build-plugins" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="50" />
+    <option name="y" value="25" />
+    <option name="width" value="1649" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
